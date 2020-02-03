@@ -27,29 +27,29 @@ This project is a { ... } bootcamp created by [42 AI](http://www.42ai.fr).
 
 ## Curriculum
 
-### DayXX - { Theme }
+### Day00 - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 
-### DayXX - { Theme }
+### Day01 - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 
-### DayXX - { Theme }
+### Day02 - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 
-### DayXX - { Theme }
+### Day03 - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 
-### DayXX - { Theme }
+### Day04 - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 
 ### Rush - { Theme }
 **{ Objective }**
-> { A brief description goes here. }
+> { Notions of the day }
 <br/>
 
 ## Acknowledgements
